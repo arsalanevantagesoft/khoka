@@ -1,3 +1,1 @@
-<?php
-asd
-echo "Hello world";
+<?php 
